@@ -1,5 +1,5 @@
 
-# Bitcoin: A Peer-to-Peer Electronic Cash System
+# Bitcoin: A Peer-to-Peer Electronic Cash Systems
 
 Satoshi Nakamoto  
 satoshin@gmx.com  
